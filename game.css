@@ -1,0 +1,210 @@
+body {
+
+    background-color: rgb(24, 70, 67);
+
+}
+
+.main-body {
+
+
+    /* margin: auto; */
+    width: fit-content;
+    height: auto;
+    top: auto;
+    margin-top: 25px;
+
+}
+
+.flex-container {
+    width: fit-content;
+    background-color: rgb(24, 70, 67);
+    display: flex;
+    margin-left: 180px;
+
+}
+
+.main-body #bg-color12, .main-body #bg-color15, .main-body #bg-color18, 
+.main-body #bg-color24, .main-body #bg-color27, .main-body #bg-color30, 
+.main-body #bg-color36, .main-body #bg-color39, .main-body #bg-color42 {
+    margin-right: 10px;
+}
+
+
+.row1>div {
+
+    height: 50px;
+
+    width: 50px;
+
+    margin: 2px;
+    text-align: center;
+}
+
+.row2>div {
+
+
+    height: 50px;
+
+    width: 50px;
+
+    margin: 2px;
+    text-align: center;
+}
+
+.row3>div {
+    height: 50px;
+
+    width: 50px;
+
+    margin: 2px;
+    text-align: center;
+}
+
+
+
+.row4>div {
+    height: 50px;
+
+    width: 50px;
+
+    margin: 2px;
+    text-align: center;
+}
+
+
+
+.row5>div {
+    height: 50px;
+
+    width: 50px;
+
+    margin: 2px;
+    text-align: center;
+}
+
+
+
+.row6>div {
+    height: 50px;
+
+    width: 50px;
+
+    margin: 2px;
+    text-align: center;
+}
+
+
+
+
+.row7>div {
+    height: 50px;
+
+    width: 50px;
+    margin: 2px;
+    text-align: center;
+}
+
+
+
+.bg-y {
+    background-color: rgba(255, 255, 0, 1);
+}
+
+.bg-g {
+    background-color: rgb(29, 112, 4);
+}
+
+.bg-b {
+    background-color: rgba(0, 18, 66, 0.932);
+}
+
+.bg-w {
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.bg-r {
+    background-color: rgb(196, 3, 3);
+}
+
+.bg-o {
+    background-color: rgb(235, 125, 0);
+}
+
+
+
+
+
+.row8>div {
+    height: 50px;
+
+    width: 50px;
+    margin: 2px;
+    text-align: center;
+}
+
+
+
+.row9>div {
+    height: 50px;
+
+    width: 50px;
+    margin: 2px;
+    text-align: center;
+}
+
+.upper-box {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.lower-box {
+    margin-left: 27px;
+    margin-top: 10px;
+}
+
+div:hover {
+    background-color: rgb(15, 114, 153);
+
+}
+
+.active {
+    background-color: rgb(201, 201, 58);
+}
+
+/* //////////////////////.............BUTTONS............/////////////// */
+
+.btn {
+    height: 40px;
+    width: 60px;
+    background-color: lightpink;
+    border: none;
+    margin: 3px;
+    border-radius: 20px;
+    font-size: 10px;
+    font-weight: bold;
+    
+}
+
+
+
+.btn:hover {
+    background-color: rgb(245, 50, 83);
+    ;
+}
+
+.button-fix {
+    margin-left: 25%;
+    margin-top: -92px;
+}
+
+.button-fix div {
+
+    width: fit-content;
+}
+
+
+.button-fix .center-button {
+    margin-left: -11.6%;
+
+}
